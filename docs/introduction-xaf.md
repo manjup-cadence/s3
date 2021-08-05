@@ -4,7 +4,7 @@ title: Introduction To XAF
 nav_order: 9
 ---
 
-# Configuration
+# Introduction
 {: .no_toc }
 
 
