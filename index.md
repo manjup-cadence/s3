@@ -24,17 +24,11 @@ Dependencies list..........
 
 ### Quick start: Use as a GitHub Pages
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
 ### Local installation: Use the gem-based theme
 
 
-
-### Configure Just the Docs
+### Configure
 
 ## About the project
 
