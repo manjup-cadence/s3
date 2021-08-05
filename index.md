@@ -12,7 +12,7 @@ permalink: /
 Just the Docs gives your documentation a jumpstart that is easily customizable and its sourcecode hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/manjup-cadence/s3.git){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/foss-xtensa/xa_linux_xaf){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
