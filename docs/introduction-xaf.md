@@ -20,5 +20,5 @@ and components and integrate them into the framework. Towards this goal, a simpl
 application and focus more on using the available components. XAF is designed to work on both
 the instruction set simulator as well as actual hardware.
 
-
+![](https://github.com/manjup-cadence/s3/blob/gh-pages/assets/images/xaf.PNG)
 
